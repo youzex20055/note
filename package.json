@@ -1,0 +1,11 @@
+{
+    "name": "ci-cd-demo",
+    "version": "1.0.0",
+    "description": "تطبيق Hello World باستخدام Node.js لخط أنابيب CI/CD",
+    "main": "app.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "dependencies": {}
+  }
+  
